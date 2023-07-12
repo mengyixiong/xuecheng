@@ -1,0 +1,7 @@
+### 课程查询列表
+POST {{content_host}}/content/course/list?page=1&size=15
+Content-Type: application/json
+
+{
+  "courseName":"java"
+}
